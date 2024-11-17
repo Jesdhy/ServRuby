@@ -4,4 +4,5 @@ gem 'webrick'
 
 gem 'sinatra'
 
+gem 'rackup'
 
