@@ -4,5 +4,4 @@ gem 'webrick'
 
 gem 'sinatra'
 
-gem 'rack'
 

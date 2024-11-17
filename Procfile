@@ -1,2 +1,3 @@
-web: bundle exec rackup -s webrick -p $PORT
+web: ruby app.rb -o 0.0.0.0 -p $PORT
+
 

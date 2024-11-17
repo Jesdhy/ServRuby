@@ -24,7 +24,6 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  rack
   sinatra
   webrick
 
